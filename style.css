@@ -1,11 +1,23 @@
+body {
+  font-family: "sans serif";
+  background-color: #e0e0e0;
+}
+
+h1 {
+  font-family: "sans serif";
+  color: #ff7300;
+}
+
 .container {
+  padding-top: 150px;
   margin: auto;
   max-width: 400px;
   text-align: center;
 }
 
 button {
-  font-size: 32px;
+  border-radius: 20px;
+  font-size: 28px;
   width: 300px;
   background-color: rebeccapurple;
   color: #FFF;
