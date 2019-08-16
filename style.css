@@ -1,0 +1,17 @@
+.container {
+  margin: auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+button {
+  font-size: 32px;
+  width: 300px;
+  background-color: rebeccapurple;
+  color: #FFF;
+  outline: 0;
+  border: 0;
+  text-transform: uppercase;
+  padding: 20px 30px;
+
+}
